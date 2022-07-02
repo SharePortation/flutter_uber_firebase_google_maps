@@ -8,4 +8,6 @@ Do a `flutter create .` inside the project directory to rebuild Device specific 
 Remember that you need to add Google maps Api Key for both Android and iOS.
 
 <br>
+<br>
+
 ![alt text](https://github.com/hooshyar/flutter_uber_firebase_google_maps/blob/master/dueRide2.gif?raw=true)
